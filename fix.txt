@@ -1,0 +1,9 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>org.bouncycastle</groupId
+	<artifactId>bcprov-jdk15to18</artifactId
+	<version>1.70</version
+</dependency>
+```
